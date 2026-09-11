@@ -1,13 +1,22 @@
 class Solution:
     def nextGreaterElement(self, nums1, nums2):
+
         stack = []
-        next_greater = {}
+        greater = {}
+
         for num in nums2:
+
             while stack and num > stack[-1]:
-                smaller = stack.pop()
-                next_greater[smaller] = num
+                x = stack.pop()
+                greater[x] = num
+
             stack.append(num)
+
         answer = []
+
         for num in nums1:
-            answer.append(next_greater.get(num, -1))
+            if num in greater:
+                answer.append(greater[num])
+            else:
+                answer.append(-1)
         return answer
