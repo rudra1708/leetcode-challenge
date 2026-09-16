@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rudra1708/leetcode-challenge/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/rudra1708/leetcode-challenge/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/rudra1708/leetcode-challenge/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -44,8 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/rudra1708/leetcode-challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rudra1708/leetcode-challenge/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/rudra1708/leetcode-challenge/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rudra1708/leetcode-challenge/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/rudra1708/leetcode-challenge/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
