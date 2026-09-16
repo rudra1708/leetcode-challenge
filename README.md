@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rudra1708/leetcode-challenge/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/rudra1708/leetcode-challenge/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -42,4 +43,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/rudra1708/leetcode-challenge/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/rudra1708/leetcode-challenge/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/rudra1708/leetcode-challenge/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
