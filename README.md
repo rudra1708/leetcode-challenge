@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rudra1708/leetcode-challenge/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/rudra1708/leetcode-challenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rudra1708/leetcode-challenge/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rudra1708/leetcode-challenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rudra1708/leetcode-challenge/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rudra1708/leetcode-challenge/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/rudra1708/leetcode-challenge/tree/master/0496-next-greater-element-i) |
@@ -49,9 +51,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rudra1708/leetcode-challenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rudra1708/leetcode-challenge/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rudra1708/leetcode-challenge/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/rudra1708/leetcode-challenge/tree/master/0383-ransom-note) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rudra1708/leetcode-challenge/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rudra1708/leetcode-challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
