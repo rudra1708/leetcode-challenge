@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rudra1708/leetcode-challenge/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [1669-merge-in-between-linked-lists](https://github.com/rudra1708/leetcode-challenge/tree/master/1669-merge-in-between-linked-lists) |
 <!---LeetCode Topics End-->
