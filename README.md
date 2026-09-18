@@ -70,4 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1669-merge-in-between-linked-lists](https://github.com/rudra1708/leetcode-challenge/tree/master/1669-merge-in-between-linked-lists) |
+## Tree
+|  |
+| ------- |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/rudra1708/leetcode-challenge/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Depth-First Search
+|  |
+| ------- |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/rudra1708/leetcode-challenge/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/rudra1708/leetcode-challenge/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Binary Tree
+|  |
+| ------- |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/rudra1708/leetcode-challenge/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 <!---LeetCode Topics End-->
