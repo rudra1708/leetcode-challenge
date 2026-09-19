@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/rudra1708/leetcode-challenge/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/rudra1708/leetcode-challenge/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rudra1708/leetcode-challenge/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/rudra1708/leetcode-challenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rudra1708/leetcode-challenge/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudra1708/leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/rudra1708/leetcode-challenge/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/rudra1708/leetcode-challenge/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rudra1708/leetcode-challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rudra1708/leetcode-challenge/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rudra1708/leetcode-challenge/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/rudra1708/leetcode-challenge/tree/master/0496-next-greater-element-i) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/rudra1708/leetcode-challenge/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/rudra1708/leetcode-challenge/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rudra1708/leetcode-challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rudra1708/leetcode-challenge/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
