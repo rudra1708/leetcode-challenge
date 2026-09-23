@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rudra1708/leetcode-challenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rudra1708/leetcode-challenge/tree/master/0503-next-greater-element-ii) |
 | [0904-fruit-into-baskets](https://github.com/rudra1708/leetcode-challenge/tree/master/0904-fruit-into-baskets) |
+| [1480-running-sum-of-1d-array](https://github.com/rudra1708/leetcode-challenge/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudra1708/leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/rudra1708/leetcode-challenge/tree/master/0904-fruit-into-baskets) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rudra1708/leetcode-challenge/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
