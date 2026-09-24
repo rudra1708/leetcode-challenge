@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rudra1708/leetcode-challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/rudra1708/leetcode-challenge/tree/master/0049-group-anagrams) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rudra1708/leetcode-challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/rudra1708/leetcode-challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rudra1708/leetcode-challenge/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/rudra1708/leetcode-challenge/tree/master/0496-next-greater-element-i) |
@@ -115,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rudra1708/leetcode-challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rudra1708/leetcode-challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
