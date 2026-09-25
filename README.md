@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rudra1708/leetcode-challenge/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/rudra1708/leetcode-challenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rudra1708/leetcode-challenge/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rudra1708/leetcode-challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rudra1708/leetcode-challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/rudra1708/leetcode-challenge/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/rudra1708/leetcode-challenge/tree/master/1480-running-sum-of-1d-array) |
@@ -119,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rudra1708/leetcode-challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rudra1708/leetcode-challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rudra1708/leetcode-challenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rudra1708/leetcode-challenge/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
