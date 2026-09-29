@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudra1708/leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/rudra1708/leetcode-challenge/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/rudra1708/leetcode-challenge/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/rudra1708/leetcode-challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rudra1708/leetcode-challenge/tree/master/0242-valid-anagram) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rudra1708/leetcode-challenge/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/rudra1708/leetcode-challenge/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rudra1708/leetcode-challenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/rudra1708/leetcode-challenge/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/rudra1708/leetcode-challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rudra1708/leetcode-challenge/tree/master/0090-subsets-ii) |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/rudra1708/leetcode-challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rudra1708/leetcode-challenge/tree/master/0090-subsets-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rudra1708/leetcode-challenge/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
